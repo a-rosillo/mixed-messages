@@ -1,11 +1,11 @@
-74e* Mixed Messages
+# Mixed Messages
 _______________
 
-** Description
+## Description
 This project logs a fortune to the console in a fortune-cookie style. 
 
-** Features
+## Features
 The fortune is comprised of three random elements. 
 
-** How to use
+## How to use
 Simply call the randomSentence() function to reveal your fortunes before your eyes!
